@@ -14,7 +14,7 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/Keithkeizzah/KEITH-MD#readme",
+  "website": "https://github.com/Tsumahhh/TSUMA-KB#readme",
   "repository": "https://github.com/Tsumahhh/TSUMA-KB.git",
   "logo": "https://i.imgur.com/dAtHp2k.jpeg",
   "success_url": "/",
@@ -36,11 +36,12 @@
     },
     "HEROKU_API_KEY": {
       "description": "add your heroku api key here",
+      "value" : "HRKU-526705a6-2bbd-4e48-984f-a9b98a90c334"
       "required": true
     },
     "HEROKU_APP_NAME": {
       "description": "should match to your app name you placed above copy paste it here for the heroku vars setting",
-      "value" : "HRKU-526705a6-2bbd-4e48-984f-a9b98a90c334"
+      "value" : "Solomon Mbotia"
       "required": true
     },
     "BOTNAME": {
